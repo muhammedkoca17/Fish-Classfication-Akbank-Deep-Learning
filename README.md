@@ -3,6 +3,8 @@ Kaggle platformu üzerinden A Large Scale Fish Dataset içinde bulunan 9 farklı
 
 # Kaggle Proje Linki
 
+https://www.kaggle.com/code/muhammedkoca/akbank-derin-renme-bal-k-ay-rt-etme/notebook
+
 # A Large Scale Fish Dataset
 Veri seti 9 farklı deniz ürünü türü içermektedir. Her sınıf için 1000 artırılmış görüntü ve bunların eşleştirilmiş artırılmış ground truth'ları bulunmaktadır. Her sınıf, ground truth etiketleriyle birlikte "Fish_Dataset" dosyasında bulunabilir. Her sınıftaki tüm görüntüler "00000.png"den "01000.png"ye kadar sıralanmıştır.
 
